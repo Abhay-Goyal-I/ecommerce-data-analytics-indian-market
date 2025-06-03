@@ -1,0 +1,4 @@
+city_tier,total_amount,customer_id,transaction_id,Avg_Order_Value,Revenue_Share
+Tier 1,4713417786.19,47473,150077,31406.66,65.6
+Tier 2,1952523343.56,38722,74920,26061.44,27.2
+Tier 3,522974243.52,19696,25003,20916.46,7.3
